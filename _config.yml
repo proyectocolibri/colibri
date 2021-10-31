@@ -13,18 +13,22 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Team
+    - name: Publications
+    - name: Presentations
+    - name: Posters
+    - name: Podcats
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+    #- name: WeChat
+    #  value: YourWeChatUsername
+    #  link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
