@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Colibri Study Website
+title: Sitio web del proyecto Colibri
 description: >- # this means to ignore newlines until "baseurl:"
-  Colibri Study Website.
+  Proyecto Colibri
 baseurl: "/colibri" # the subpath of the site
 url: "https://jacalvache.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -11,11 +11,11 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: Inicio
       slug: /
-    - name: Team
-    - name: Publications
-    - name: Presentations
+    - name: Equipo
+    - name: Publicaciones
+    - name: Presentaciones
     - name: Posters
     - name: Podcast
     - name: Blog
