@@ -1,5 +1,5 @@
 ---
-layout: Inicio
+layout: Index
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
