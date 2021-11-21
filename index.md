@@ -7,7 +7,7 @@ profile_picture:
 
 <p>
   Bienvenidos! 
- </p>
+</p>
 
 <p>  
   Cuenta la leyenda que cuando a un hombre o mujer le llega la hora de su muerte, su alma se desprende de su cuerpo y vuela libremente hasta posarse en una flor. Allí, oculta y a salvo, espera, viendo pasar los días y las noches, mojándose con la lluvia y protegiéndose del viento con cada pétalo que la resguarda. Dicen que en la flor, el alma se purifica, se perfuma, se conecta con la tierra que la ha visto nacer. 
