@@ -20,5 +20,3 @@ profile_picture:
 <p>
   Este es el sitio web del proyecto Colibrí. Su objetivo general es estudiar y describir las decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida, inicialmente en pacientes oncológicos en Colombia. Posteriormente, sus objetivos han evolucionado para ampliar la discusión general sobre el final de la vida en situaciones de enfermedades cronicas a nivel nacional.
 </p>
-
-# You can find the source code and the instructions on <a href="https://github.com/jacalvache/colibri">GitHub</a>.
