@@ -2,6 +2,7 @@
 layout: default
 title: publicaciones
 slug: /publicaciones
+
 items:
   - title: My Interest 1
     image:
