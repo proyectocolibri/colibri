@@ -1,6 +1,6 @@
 ---
 layout: default
-title: publicaciones
+title: publications
 slug: /publicaciones
 
 items:
