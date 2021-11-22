@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Bienvenidos! 
+#Bienvenidos! 
 </p>
 
 <p>  
@@ -18,5 +18,5 @@ profile_picture:
 </p>
 
 <p>
-  Este es el sitio web del proyecto Colibrí. Su objetivo general es estudiar y describir las decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida, inicialmente en pacientes oncológicos en Colombia. Posteriormente, sus objetivos han evolucionado para ampliar la discusión general sobre el final de la vida en situaciones de enfermedades cronicas a nivel nacional.
+  Este es el sitio web del **Proyecto Colibrí**. Su objetivo general es estudiar y describir las decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida, inicialmente en pacientes oncológicos en Colombia. Posteriormente, sus objetivos han evolucionado para ampliar la discusión general sobre el final de la vida en situaciones de enfermedades cronicas a nivel nacional.
 </p>
