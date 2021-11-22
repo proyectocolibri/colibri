@@ -5,10 +5,10 @@ profile_picture:
   alt: website picture
 ---
 
-# Bienvenidos! 
- 
-  Cuenta la leyenda que cuando a un hombre o mujer le llega la hora de su muerte, su alma se desprende de su cuerpo y vuela libremente hasta posarse en una flor. Allí, oculta y a salvo, espera, viendo pasar los días y las noches, mojándose con la lluvia y protegiéndose del viento con cada pétalo que la resguarda. Dicen que en la flor, el alma se purifica, se perfuma, se conecta con la tierra que la ha visto nacer. 
+El podcast es un contenido en audio, disponible a través de un archivo o streaming. La ventaja del podcast es que es un formato bajo demanda; el usuario lo escucha cuando desea hacerlo. Puede oírse en diversos dispositivos y esto ha ayudado a aumentar su popularidad. Normalmente, el podcast aborda un asunto específico para construir una audiencia fiel. qué es un podcast
 
-  Pero un día llega a ella un colibrí y la descubre entre los pétalos. Si es la elegida y le ha llegado el momento, amorosamente la recoge y la lleva sobre su cuerpo volando hacia el paraíso. Ésa, según cuentan los más sabios de los pueblos más antiguos, es la razón por la cual los colibríes saltan de flor en flor y se alejan volando rápidamente hasta perderse entre las nubes.
+En la actualidad, la dinámica y acelerada vida urbana exige mucho de las personas. Cada vez más nos quedamos sin tiempo para realizar nuestras tareas. Cada día tenemos menos tiempo para hacer más cosas. qué es un podcast
 
-  Este es el sitio web del **Proyecto Colibrí**. Su objetivo general es estudiar y describir las decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida, inicialmente en pacientes oncológicos en Colombia. Posteriormente, sus objetivos han evolucionado para ampliar la discusión general sobre el final de la vida en situaciones de enfermedades cronicas a nivel nacional.
+Esto también es cierto cuando hablamos del consumo de contenido. Cada día que pasa, tenemos más contenido que consumir y menos tiempo para eso.
+
+El podcast llegó para ayudar a aprovechar el tiempo disponible y aumentar la productividad diaria. Esto es posible debido a la facilidad de solo dar play y escuchar contenido; ya sea en el auto, en el autobús, en el gimnasio, durante el almuerzo y así sucesivamente.
