@@ -17,7 +17,8 @@ header:
     - name: Publicaciones
     - name: Presentaciones & Posters
     - name: Podcast
-    - name: Blog
+    - name: Enlaces de interés
+   # - name: Blog
 
 footer:
   show_powered_by: false
