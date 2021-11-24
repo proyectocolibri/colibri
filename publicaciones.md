@@ -7,7 +7,7 @@ profile_picture:
 
 ## Artículos & Preprints
 
-*de Vries, E., Leal Arenas, F.A., van der Heide, A. et al. Medical decisions concerning the end of life for cancer patients in three Colombian hospitals – a survey study. BMC Palliat Care 20, 161 (2021). <https://doi.org/10.1186/s12904-021-00853-9>
+*de Vries, E., Leal Arenas, F.A., van der Heide, A. et al. Medical decisions concerning the end of life for cancer patients in three Colombian hospitals – a survey study. BMC Palliat Care 20, 161 (2021). <https://doi.org/10.1186/s12904-021-00853-9 target="_blank">
 
 *Reid J, de Vries E, Ahmedzai SH, Arias-Rojas M, Calvache JA, Gómez-Sarmiento SC, Gomez ML, Parra-Cubides SL, Prue G, Moreno S. Palliative care and oncology in Colombia: the potential of integrated care delivery. Healthcare. 2021;9:789. <https://doi.org/10.3390/healthcare9070789>
 
