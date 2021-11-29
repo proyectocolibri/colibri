@@ -15,3 +15,5 @@ profile_picture:
 
 # Boletin informativo #2
 # Objetivo: Comunidad general
+
+!(jacalvache/colibri/assets/img/content/Boletin 1.PNG){width='50px'}
