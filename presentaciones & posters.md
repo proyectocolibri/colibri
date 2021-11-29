@@ -10,10 +10,10 @@ profile_picture:
 ## Boletin informativo #1
 ## Objetivo: Profesionales de la salud
 
-!(assets/img/content/Boletin1.PNG)
+!(https://raw.githubusercontent.com/jacalvache/colibri/gh-pages/assets/img/content/Boletin1.PNG)
 
 
 ## Boletin informativo #2
 ## Objetivo: Comunidad general
 
-!(assets/img/content/Boletin2.PNG)
+!(https://raw.githubusercontent.com/jacalvache/colibri/gh-pages/assets/img/content/Boletin2.PNG)
