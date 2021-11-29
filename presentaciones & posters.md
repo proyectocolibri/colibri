@@ -5,7 +5,4 @@ profile_picture:
   alt: website picture
 ---
 
-# Presentaciones y Posters
 ## Presentaciones y Posters
-### Presentaciones y Posters
-#### Presentaciones y Posters
