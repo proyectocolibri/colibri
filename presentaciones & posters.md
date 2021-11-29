@@ -1,9 +1,9 @@
 ---
 layout: home
-slug: 
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+slug: /work
+#profile_picture:
+#  src: /assets/img/profile-pic.jpg
+#  alt: website picture
 ---
 
 # Presentaciones y posters
