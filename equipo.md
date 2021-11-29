@@ -5,6 +5,6 @@ profile_picture:
   alt: website picture
 ---
  
-En producción!
+En construcción!
 
   Foto de Frank Cone en Pexels

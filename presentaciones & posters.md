@@ -5,15 +5,15 @@ profile_picture:
   alt: website picture
 ---
 
-## Presentaciones y posters
+# Presentaciones y posters
 
-# Boletin informativo #1
-# Objetivo: Profesionales de la salud
+## Boletin informativo #1
+## Objetivo: Profesionales de la salud
 
-!(assets/img/content/Boletin1.PNG){width='100px'}
+!(assets/img/content/Boletin1.PNG)
 
 
-# Boletin informativo #2
-# Objetivo: Comunidad general
+## Boletin informativo #2
+## Objetivo: Comunidad general
 
-!(assets/img/content/Boletin2.PNG){width='50px'}
+!(assets/img/content/Boletin2.PNG)
