@@ -10,6 +10,9 @@ profile_picture:
 ## Boletin informativo 1
 ## Objetivo: Profesionales de la salud
 
+<img src="assets/img/content/Boletin1.PNG" width="100px">
 
 ## Boletin informativo 2
 ## Objetivo: Comunidad general
+
+<img src="assets/img/content/Boletin2.PNG" width="100px">
