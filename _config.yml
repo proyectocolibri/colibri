@@ -4,8 +4,12 @@
 title: Sitio web del proyecto Colibri
 description: >- # this means to ignore newlines until "baseurl:"
   Proyecto Colibri
-baseurl: "/colibri" # the subpath of the site
-url: "https://jacalvache.github.io" # the base hostname & protocol for the site
+baseurl: "/proyectocolibri.github.io" # the subpath of the site
+# /colibri
+
+url: "/proyectocolibri.github.io" # the base hostname & protocol for the site
+# "https://jacalvache.github.io"
+
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "G-H7P9PCD9CS"
 
