@@ -7,7 +7,9 @@ profile_picture:
 
 # Campaña - El final de la vida
 
-Este espacio comparte con personal médico de pacientes con enfermedad avanzada o en el final de vida, información para mejorar su calidad de cuidado durante el final de sus días mediante el uso de una serie de Podcast. Toda la campaña se encuentra alojada en el sitio web [https://www.spreaker.com/user/15789590]
+Este espacio comparte con personal médico de pacientes con enfermedad avanzada o en el final de vida, información para mejorar su calidad de cuidado durante el final de sus días mediante el uso de una serie de Podcast. Toda la campaña se encuentra alojada en el sitio web <https://www.spreaker.com/user/15789590>
+
+
 
 # Bienvenidos !
 
