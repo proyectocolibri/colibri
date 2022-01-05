@@ -5,10 +5,18 @@ profile_picture:
   alt: website picture
 ---
 
-El podcast es un contenido en audio, disponible a través de un archivo o streaming. La ventaja del podcast es que es un formato bajo demanda; el usuario lo escucha cuando desea hacerlo. Puede oírse en diversos dispositivos y esto ha ayudado a aumentar su popularidad. Normalmente, el podcast aborda un asunto específico para construir una audiencia fiel. qué es un podcast
+# Campaña - El final de la vida
 
-En la actualidad, la dinámica y acelerada vida urbana exige mucho de las personas. Cada vez más nos quedamos sin tiempo para realizar nuestras tareas. Cada día tenemos menos tiempo para hacer más cosas. qué es un podcast
+Este espacio comparte con personal médico de pacientes con enfermedad avanzada o en el final de vida, información para mejorar su calidad de cuidado durante el final de sus días.
 
-Esto también es cierto cuando hablamos del consumo de contenido. Cada día que pasa, tenemos más contenido que consumir y menos tiempo para eso.
+## Episodio 1. Cómo tomar las mejores decisiones cuando un paciente está al final de su vida
 
-El podcast llegó para ayudar a aprovechar el tiempo disponible y aumentar la productividad diaria. Esto es posible debido a la facilidad de solo dar play y escuchar contenido; ya sea en el auto, en el autobús, en el gimnasio, durante el almuerzo y así sucesivamente.
+<a class="spreaker-player" href="https://www.spreaker.com/show/como-tomar-las-mejores-decisiones" data-resource="show_id=5327367" data-theme="light" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/4f25d41dbcb136358ea2ccf346e8798c.jpg" data-width="100%" data-height="400px">Listen to "Episodio 1 - Cómo tomar las mejores decisiones cuando un paciente está al final de su vida" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+
+
+## Episodio 2. Cómo tomar las mejores decisiones cuando un paciente está al final de su vida
+
+<a class="spreaker-player" href="https://www.spreaker.com/show/episodio-2-como-atender-a-los-pacientes" data-resource="show_id=5327400" data-theme="light" data-playlist="show" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/d330bffe71bf947b3b3084abff0b7181.jpg" data-width="100%" data-height="400px">Listen to "Episodio 2 - Cómo atender a los pacientes en el final de la vida" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+
+
+https://www.spreaker.com/user/15789590
