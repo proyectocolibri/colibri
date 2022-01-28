@@ -13,4 +13,7 @@ profile_picture:
 
   Este es el sitio web del **Proyecto Colibrí**. Su objetivo general es estudiar y describir las decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida, inicialmente en pacientes oncológicos en Colombia. Posteriormente, sus objetivos han evolucionado para ampliar la discusión general sobre el final de la vida en situaciones de enfermedades cronicas a nivel nacional.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bELAl0rkQA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
   Foto de Skyler Ewing en Pexels
