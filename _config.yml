@@ -17,7 +17,7 @@ header:
   pages:
     - name: Inicio
       slug: /
-    - name: Equipo
+   # - name: Equipo
     - name: Publicaciones
     - name: Presentaciones & Posters
     - name: Podcast & Videos
