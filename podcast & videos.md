@@ -45,3 +45,8 @@ Este espacio comparte con personal médico de pacientes con enfermedad avanzada 
 ## Video 4. Mi cáncer ya no se puede curar. ¿Qué va a pasar y qué puedo esperar?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mkHFY5LxM58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Video 5. ¿Ayudo a mi paciente en la toma de decisiones y respeto sus voluntades?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3kfI12iApdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
