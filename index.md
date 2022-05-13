@@ -17,7 +17,7 @@ profile_picture:
 
 ## Cartilla Paso a Paso : Mi plan de viaje
 ## Una guía para planificar el final de la vida
-<img src="assets/img/content/cartilla.jpg" width="600px">
+<img src="assets/img/content/cartilla.png" width="600px">
 <a href="assets/img/content/docs/Cartilla.pdf" target="_blank">Cartilla paso a paso (.pdf)</a>
 
 
