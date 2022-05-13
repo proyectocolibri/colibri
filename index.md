@@ -22,5 +22,6 @@ profile_picture:
 <img src="assets/img/content/cartilla.png" width="600px">
 <a href="assets/img/content/docs/Cartilla.pdf" target="_blank">Cartilla paso a paso (.pdf)</a>
 
-
-  Foto de Skyler Ewing en Pexels
+<br>
+<div style="text-align: right"> Foto de Skyler Ewing en Pexels </div>
+  
