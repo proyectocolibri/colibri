@@ -15,8 +15,8 @@ profile_picture:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bELAl0rkQA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Cartilla Paso a Paso : Mi plan de viaje
-## Una guía para planificar el final de la vida
+
+## Cartilla Paso a Paso : Mi plan de viaje. Una guía para planificar el final de la vida
 <img src="assets/img/content/cartilla.png" width="600px">
 <a href="assets/img/content/docs/Cartilla.pdf" target="_blank">Cartilla paso a paso (.pdf)</a>
 
