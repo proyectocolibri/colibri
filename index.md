@@ -12,7 +12,6 @@ profile_picture:
   *Pero un día llega a ella un colibrí y la descubre entre los pétalos. Si es la elegida y le ha llegado el momento, amorosamente la recoge y la lleva sobre su cuerpo volando hacia el paraíso. Ésa, según cuentan los más sabios de los pueblos más antiguos, es la razón por la cual los colibríes saltan de flor en flor y se alejan volando rápidamente hasta perderse entre las nubes.*
 
 <br>
-<br>
 
 # Cartilla Paso a Paso : Mi plan de viaje. Una guía para planificar el final de la vida
 <img src="assets/img/content/cartilla.png" width="600px">
