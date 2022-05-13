@@ -19,6 +19,7 @@ profile_picture:
 ## Una guía para planificar el final de la vida
 <img src="assets/img/content/cartilla.PNG" width="600px">
 <a href="assets/img/content/docs/Cartilla_Paso_a_paso.pdf" target="_blank">Cartilla paso a paso (.pdf)</a>
+>>>>>>> a7abade8ed74a7bafe4d827edaca3064bd0e7143
 
 
   Foto de Skyler Ewing en Pexels
